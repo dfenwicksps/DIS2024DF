@@ -5,8 +5,9 @@ line comment
 """
 # Input - asking user to input something and saving to a variable
 name = input("What is your name? ")
-age = input("What is your age? ")
-
+age = int(input("What is your age? "))
+print(type(name))
+print(type(age))
 # Processing
 # Python can calculate numbers
 age = 20 + age
