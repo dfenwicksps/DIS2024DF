@@ -1,0 +1,24 @@
+# https://pythonprinciples.com/challenges/
+# BOOK TITLE LENGTH
+# Write a program that asks the user for the title of a book
+# Return the length of the title
+# Extension - can you count the number of words in a title
+# Extension: respond to the user if you think the title is too short or too long
+
+# Start with an algorithm - how would you solve this problem?
+# In groups of 3 - one person is the computer, one person is the user and one person observing and
+# writing down step by step, exactly what happens
+# Now what Python methods/functions might you need to know?
+
+
+# CAPITAL INDEXES
+Write a function named capital_indexes.
+The function takes a single parameter, which is a string.
+Your function should return a list of all the indexes in the string that have capital letters.
+
+For example, calling capital_indexes("HeLlO") should return the list [0, 2, 4].
+
+Middle letter
+Write a function named mid that takes a string as its parameter. Your function should extract and return the middle letter. If there is no middle letter, your function should return the empty string.
+
+For example, mid("abc") should return "b" and mid("aaaa") should return "".

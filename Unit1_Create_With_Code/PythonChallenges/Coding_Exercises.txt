@@ -1,0 +1,116 @@
+Coding Exercise 1
+Write a Python program following the steps below
+1. Create a variable (any name) and store a string in the variable.
+2. Then, print out the type of the variable.
+
+Coding Exercise 2
+Write a Python program that gets input from the user and prints out that input.
+
+Coding Exercise 3
+Create a list of four strings and associate the list with a variable.
+
+
+Bug-Fixing Exercise 1
+The following code has a syntax error. Try to fix it.
+
+answers = ['Yes', 'No', 'Yes', 'No', 'No'
+
+Bug-Fixing Exercise 2
+The following code throws an error. Try to fix it.
+
+my_answer = input("What is your answer?")
+answers = ['Yes', 'No', 'Yes' 'No' my_answer]
+
+Bug-Fixing Exercise 3
+The following code has an error. Try to fix it.
+
+my_answer = input(What is your answer?)
+answers = ['Yes', 'No', 'Yes', 'No', my_answer]
+
+Bug-Fixing Exercise 4
+The following code throws an error. Try to fix it.
+
+my_answer = input["What is your answer?"]
+answers = ['Yes', 'No', 'Yes', 'No', my_answer]
+
+Coding Exercise 1
+Create a program that prompts the user to input their name once.
+Then, the program prints out the name once with the first letter capitalized.
+
+Coding Exercise 2
+Create a program that prompts the user to input their name once.
+Then, the program repeatedly prints out the name with the first letter capitalized.
+
+Coding Exercise 3
+Create a program that prompts the user to input their name repeatedly.
+Then, the program repeatedly prints out the name with the first letter capitalized.
+eg:
+What is your name? david
+David
+What is your name? lebron
+Lebron
+What is your name? michael
+Michael
+What is your name?
+
+Bug-Fixing Exercise 1
+The code below has two bugs. Hunt them down and fix them.
+while True
+print("Hello")
+
+Bug-Fixing Exercise 2
+The programmer here is trying to convert the string "hello" to "HELLO" by using the upper() method:
+greeting = "hello"
+print(upper(greeting))
+However, the program returns an error.
+Can you help fix the code, so it prints out HELLO?
+
+Bug-Fixing Exercise 3
+A programmer wrote the following program:
+
+countries = []
+
+while True:
+    country = input("Enter the country: ")
+    countries.append(country)
+print(countries)
+The expected output is as follows:
+Enter the country: Australia
+['Australia']
+Enter the country: Belgium
+['Australia', 'Belgium']
+Enter the country:
+However, the code returns an error instead of the expected output. Fix the code, so it produces the expected output.
+
+Coding Exercise 1
+Create a program that does the following:
+1. Prompts the user to input the country they are from.
+2. If the user enters the word USA, the program prints out Hello.
+3. If the user enters the word  India, the program prints out Namaste.
+4. If the user enters the word Germany, the program prints out Hallo.
+
+Note: Strings are case-sensitive in Python, meaning germany and Germany are treated as two different strings.
+
+Coding Exercise 2
+ingredients = ["john smith", "sen plakay", "dora ngacely"]
+Copy-paste the above line into your IDE and write a for-loop below that line that makes the program produce the following output:
+Tip:  Use the str.title() method to convert strings to Title Case.
+
+
+Bug-Fixing Exercise 1
+The programmer is trying to loop over the buttons list and print out each item with the first letter capitalized. However, the programmer has done something wrong. Try to find and fix the issue.
+for i in buttons:
+    print(i.capitalize())
+buttons = ["cancel", "reply", "submit"]
+
+
+Bug-Fixing Exercise 2
+The programmer is again missing something in the code. Try to find what it is and fix it.
+buttons = ["cancel", "reply", "submit"]
+for i in buttons:
+print(i.capitalize())
+
+Bug-Fixing Exercise 3
+The code below is supposed to print out the items of the list with the first character of each item capitalized. However, the code contains two errors. Try to find and fix the errors.
+for item in ["sandals", "glasses", "trousers"):
+    print(item.capitalize)
