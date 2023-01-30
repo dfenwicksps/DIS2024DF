@@ -2,6 +2,45 @@
 # Return the length of the title
 # Extension - can you count the number of words in a title
 # Extension: respond to the user if you think the title is too short or too long
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 booktitle = input("Enter the title of a book: ")
 count = 1
 print(f"{booktitle.capitalize()} is {len(booktitle)} characters long.")

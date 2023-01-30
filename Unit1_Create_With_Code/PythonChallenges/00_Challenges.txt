@@ -3,10 +3,12 @@
 # Write a program that asks the user for the title of a book
 # Return the length of the title
 # Extension - can you count the number of words in a title
-# Extension: respond to the user if you think the title is too short or too long
+# Extension: respond to the user if you think the title is
+# too short or too long
 
 # Start with an algorithm - how would you solve this problem?
-# In groups of 3 - one person is the computer, one person is the user and one person observing and
+# In groups of 3 - one person is the computer, one person
+#  is the user and one person observing and
 # writing down step by step, exactly what happens
 # Now what Python methods/functions might you need to know?
 
