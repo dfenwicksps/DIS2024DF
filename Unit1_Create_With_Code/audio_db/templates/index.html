@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>Audio DB</h1>
+<h1>TABLE...</h1>
+    <table>
+        {# jinja comment #}
+        <tr>
+            {% for item in data %}
+            <tr>
+                <td>{{ item['strArtist'] }}</td>
+                <td><img src="{{ item['strTrackThumb']}}" /> </td>
+                <th>{{ item['strAlbum'] }} </th>
+                <th>{{ item['strGenre'] }} </th>
+                <th>{{ item['strDescriptionEN'] }} </th>
+                <th>{{ item['idLyric'] }}</th>
+        </tr>
+            {% endfor %}
+
+        </tr-->
+</table>
+{% endblock %}

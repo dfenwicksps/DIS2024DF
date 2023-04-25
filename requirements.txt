@@ -1,0 +1,3 @@
+Flask~=2.2.2
+WTForms~=3.0.1
+streamlit~=1.18.1

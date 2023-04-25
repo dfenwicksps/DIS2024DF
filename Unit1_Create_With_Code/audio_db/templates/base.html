@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title>{{ title }} - AudioDB</title>
+    {% else %}
+    <title>Welcome to AudioDB</title>
+    {% endif %}
+</head>
+<body>
+    <div>AudioDB:
+        <a href="/index">Home</a>
+        <a href="/login">Login</a>
+    </div>
+    <hr>
+    {% block content %}{% endblock %}
+</body>
+</html>

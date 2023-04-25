@@ -5,17 +5,121 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a78767f-25aa-445d-82c8-11eb949f1605" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/templates/guess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/templates/lose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/templates/win.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/15_title_length_chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.flaskenv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11MAS/permutations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/00flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/00flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/templates/registration.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01registration/testemail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/backup01routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/02microblog_dmf/microblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GTN_Classwork/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GTN_Classwork/instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GTN_Classwork/templates/guess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GTN_Classwork/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess00.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/05_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/07_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/08_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/09_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/09b_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/09c_title_length_chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/11_BookTitleLength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/list_loop_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/match_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/myText.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/myTextfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/myTextfile2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/myTextfile3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/mypython01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/name_randomizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/streamlit00/mystreamlit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/andrew.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/aryan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/tim_booktitle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/versions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/versions/c7a5f5a4ebe3_posts_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/migrations/versions/f5f253d7f1ee_users_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/flask_tut/myblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/backup01routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/microblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/backup01routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/microblog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/versions/412311eef752_users_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/migrations/versions/8181f09daa7c_posts_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/00_Challenges.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/00_Challenges.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/01_BookTitleLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/10_BookTitleLength.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/02_CapitalIndexes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/20_CapitalIndexes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/Coding_Exercises.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/Coding_Exercises.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/10_BookTitleLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/10_BookTitleLength.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/15_title_length_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/06_title_length_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/20_CapitalIndexes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/20_CapitalIndexes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/Coding_Exercises.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/_Coding_Exercises.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/tim_booktitle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/tim_booktitle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/mypython01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/mypython00.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp31.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp40.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +129,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -42,6 +146,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2KnQ10ZZVoX7j0ligsA2tfh6KCi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,28 +157,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/d.fenwick/PycharmProjects/DIS2024DF/Unit1_Create_With_Code/GuessTheNumber",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/d.fenwick/PycharmProjects/DIS2024DF/Unit1_Create_With_Code&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code" />
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app" />
       <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber" />
       <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1" />
       <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Unit1_Create_With_Code" />
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/Flask" />
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/02flask_tut/app" />
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app" />
+      <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/Flask/02flask_tut" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15_title_length_chars">
-    <configuration name="15_title_length_chars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.microblog">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/PythonChallenges/15_title_length_chars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog/app/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="microblog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/BasicLogin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/BasicLogin/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/microblog.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="guess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="name_randomizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/GuessTheNumber/guess.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/name_randomizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="todoapp31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tim_booktitle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +255,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/tim_booktitle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="todoapp40" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tim_booktitle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/todoapp1/todoapp40.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/tim_booktitle2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.15_title_length_chars" />
-        <item itemvalue="Python.guess" />
-        <item itemvalue="Python.todoapp40" />
-        <item itemvalue="Python.app" />
-        <item itemvalue="Python.todoapp31" />
+        <item itemvalue="Python.microblog" />
+        <item itemvalue="Python.tim_booktitle2" />
+        <item itemvalue="Python.tim_booktitle" />
+        <item itemvalue="Python.name_randomizer" />
+        <item itemvalue="Python.__init__" />
       </list>
     </recent_temporary>
   </component>
@@ -230,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674980303130</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=".">
+      <created>1675043764551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675043764551</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1675142206606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675142206607</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -248,5 +375,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/app/routes.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
