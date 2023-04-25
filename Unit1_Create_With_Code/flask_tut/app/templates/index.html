@@ -1,0 +1,8 @@
+{% extends "base.html" %} <!-- This is the index.html file -->
+
+{% block content %} <!-- This is the content block in base.html -->
+    <h1>Hi, {{ user.username }}!</h1>  <!-- This is the user.username variable -->
+    {% for post in posts %}
+    <div><p>{{ post.author.username }} says: <b>{{ post.body }}</b></p></div>
+    {% endfor %}
+{% endblock %}  <!-- This is the end of the content block in base.html -->

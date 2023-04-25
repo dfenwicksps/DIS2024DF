@@ -170,3 +170,75 @@ new = 'x'
 new = elements[1]
 print(elements)
 
+Coding Exercise 1
+filenames = ['document', 'report', 'presentation']
+
+Copy-paste the above list in a .py file and extend the code, so it prints out the output below:
+
+0-Document.txt
+1-Report.txt
+2-Presentation.txt
+Solution
+
+
+
+Coding Exercise 2
+ips = ['100.122.133.105', '100.122.133.111']
+
+Copy-paste the ips list in a .py file and extend the program so it:
+
+1. Prompts the user to input an index (e.g, 0 or 1).
+
+2. Returns the IP address that has that index.
+
+Here is how the program would behave when executed:
+
+
+Bug-Fixing Exercise 1
+Supposedly, the following program should:
+
+1. Prompt the user to input an index (e.g., 0, 1, or 2).
+
+2. Print out the item with that index.
+
+However, there is a bug with the program which you should try to fix.
+
+
+
+menu = ["pasta", "pizza", "salad"]
+
+user_choice = input("Enter the index of the item: ")
+
+message = f"You chose {menu[user_choice]}."
+print(message)
+Solution
+
+
+
+Bug-Fixing Exercise 2
+Here is another piece of buggy code:
+
+menu = ["pasta", "pizza", "salad"]
+
+for i, j in enumerate[menu]:
+    print(f"{i}.{j}")
+Fix the code, so it prints out the output below:
+
+0.pasta
+1.pizza
+2.salad
+
+Bug-Fixing Exercise 3
+Here is another piece of code that contains a bug:
+
+menu = ["pasta", "pizza", "salad"]
+
+for i, j in enumerate(menu):
+    print("f{i}.{j}")
+The expected output is this:
+
+0.pasta
+1.pizza
+2.salad
+Fix the bug so the program prints out the above output.
+

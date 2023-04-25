@@ -1,0 +1,18 @@
+This is my text file.
+This is another line.
+c
+a
+b
+c
+a
+b
+c
+David
+a
+b
+c
+Fred
+a
+b
+c
+David

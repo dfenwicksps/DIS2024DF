@@ -1,4 +1,4 @@
-# Todo app
+# Todo app - add enumerate
 name = input("What is your name? ").title()
 print(f"{name}'s To Do List")
 #user_prompt = "Enter a todo: (x to exit) "

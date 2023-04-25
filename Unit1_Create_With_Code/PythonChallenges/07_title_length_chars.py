@@ -10,18 +10,10 @@
 #       * SAFETY - The ability for users to make errors
 #       * EFFECTIVENESS & UTILITY - can you add any additional features or functions for the user
 #       * LEARNABILITY - is your solution consistent and easy to learn?
-
-question = "What is the title of the book? "
 print("Welcome to my Book Title counter.")
 print("Enter the title of a book and I will count the characters.")
-title = input(question)
-count = 0
-runagain = "y"
-while runagain == "y":
-#for char in title:
-#    count = count + 1
-#print(count)
-    print(f"'{title}' is {len(title)} characters in length.")
-    runagain = input("Do you want to try another book? ")
-
+title = ''
+while title.lower() != 'q':
+    title = input("What is the title of the book? (or q to quit): ")
+    print(f"'{title.capitalize()}' is {len(title)} characters in length.")
 print("Thanks for trying my program. See you next time.")

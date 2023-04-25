@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- The curly brace elements are JINJA tags -->
+    <!-- https://palletsprojects.com/p/jinja/ -->
+    {% if title %}
+    <title>{{ title }} - Microblog</title>
+    {% else %}
+    <title>Welcome to My Microblog!</title>
+    {% endif %}
+</head>
+<body>
+  <div>Microblog:
+        <a href="{{ url_for('index') }}">Home</a>
+        <a href="{{ url_for('login') }}">Login</a>
+  </div>
+    <hr>
+    {% block content %}
+
+    {% endblock %}
+</body>
+</html>

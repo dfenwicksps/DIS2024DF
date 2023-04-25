@@ -1,4 +1,4 @@
-# Todo app - add edit
+# Todo app - storing items in text files
 name = input("What is your name? ").title()
 print(f"{name}'s To Do List")
 #user_prompt = "Enter a todo: (x to exit) "
@@ -13,11 +13,18 @@ while run.lower() == "y":
         case 'exit':
             run = 'n'
         case 'add':
-            todo = input("Enter a todo (or press return when done): ").strip().title()
-            while todo:
-                myTodos.append(todo)
-                todo = input("Enter a todo (or press return when done): ").strip().title()
-            print(myTodos)
+            todo = input("Enter a todo (or press return when done): ").strip().title() + "\n"
+            file = open('todos.txt')
+            myTodos = file.readlines()
+            file.close()
+            myTodos.append(todo)
+            file = open('todos.txt', 'w')
+            file.writelines(myTodos)
+
+            #while todo != "\n":
+            #    myTodos.append(todo)
+            #    todo = input("Enter a todo (or press return when done): ").strip().title() + "\n"
+            #print(myTodos)
         case 'show' | 'display':  # the pipe is used as an OR
             print(20 * '*')
             print(f"{name}'s To Do List:")

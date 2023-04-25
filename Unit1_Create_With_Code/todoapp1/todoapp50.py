@@ -1,4 +1,4 @@
-# Todo app - add edit
+# Todo app - add complete option
 name = input("What is your name? ").title()
 print(f"{name}'s To Do List")
 #user_prompt = "Enter a todo: (x to exit) "
@@ -7,7 +7,7 @@ run = "y"
 #while True:
 while run.lower() == "y":
     #todo = input(user_prompt)
-    user_action = input("Type add, show, edit or exit: ").strip()
+    user_action = input("Type add, show, edit, complete or exit: ").strip()
 
     match user_action:
         case 'exit':
@@ -31,6 +31,9 @@ while run.lower() == "y":
             number -= 1  # take away 1 to match item to index
             new_todo = input("Enter new todo: ")
             myTodos[number] = new_todo  # overwrite/replace an item in a list
+        case 'complete':
+            number = int(input("Number of the todo to complete: "))
+            myTodos.pop(number - 1)
         case _:  # the underscore is recognised as the default capture for unknown commands
             print("You've entered an unknown command.")
 print()
