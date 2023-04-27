@@ -16,7 +16,7 @@ def index():
 
 
 def search_albums(artist_name):
-    API_KEY = '523532'
+    API_KEY = 'my_api_key'
     URL = f'https://theaudiodb.com/api/v1/json/{API_KEY}/searchalbum.php?s={artist_name}'
     response = requests.get(URL)
     data = response.json()
