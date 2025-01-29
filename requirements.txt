@@ -1,3 +1,10 @@
 Flask~=2.2.2
 WTForms~=3.0.1
 streamlit~=1.18.1
+ics~=0.7.2
+arrow~=1.2.3
+requests~=2.28.2
+MyApplication~=0.1.0
+Werkzeug~=2.2.2
+alembic~=1.9.4
+SQLAlchemy~=2.0.4

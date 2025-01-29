@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a78767f-25aa-445d-82c8-11eb949f1605" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/_Classwork/guess_game_chatgpt/gptguess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/cal_start_end.ics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/csvics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/csvics2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/my_input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/my_input2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/my_oldinput.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/my_output.ics" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/albums.db" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/albums.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/templates/results.html" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/templates/results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +62,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/d.fenwick/PycharmProjects/DIS2024DF/Unit1_Create_With_Code&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -73,7 +81,7 @@
       <recent name="$PROJECT_DIR$/Unit1_Create_With_Code/Flask/02flask_tut" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Python.csvics2">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DIS2024DF" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +95,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/01_audio_db/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csvics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIS2024DF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/csvics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="csvics2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DIS2024DF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/CSVICS/csvics2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,55 +187,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="microblog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DIS2024DF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/microblog_class/microblog.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tim_booktitle2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DIS2024DF" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit1_Create_With_Code/_Student_work/tim_booktitle2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.csvics2" />
+        <item itemvalue="Python.csvics" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.gptguess" />
         <item itemvalue="Python.mega_secure_encryptor" />
-        <item itemvalue="Python.microblog" />
-        <item itemvalue="Python.tim_booktitle2" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +269,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682417316289</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=".">
+      <created>1684283631215</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1684283631215</updated>
+    </task>
+    <task id="LOCAL-00011" summary=".">
+      <created>1684283639807</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684283639807</updated>
+    </task>
+    <task id="LOCAL-00012" summary=".">
+      <created>1684283655926</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684283655926</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
